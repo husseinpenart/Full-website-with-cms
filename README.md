@@ -19,8 +19,11 @@
 <li>internationals Date </li>
 <li>menu page (adding activating deactivating , deleting and editing)</li>
 <li>and else........................</li>
+
 <hr></hr>
+
 <h2>Languages and materials</h2>
+
 <li>HTML</li>
 <li> CSS</li>
 <li>JAVASCRIPT</li>
@@ -28,4 +31,5 @@
 <li>FONTASWESOME</li>
 <li>PHP</li>
 <li>APIS</li>
-
+<li>BOOTSTRAP 5</li>
+<li>DATABASE PDO</li>
